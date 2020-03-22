@@ -2,4 +2,5 @@
 folder
 
 
-This project is test from hang program.
+This project is a test from HNG program.
+Looking forward to becoming a coder

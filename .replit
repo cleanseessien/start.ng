@@ -1,0 +1,9 @@
+Var name ="Godwin Essien";
+Var course=["HTML","css","JavaScript","ux/ui","Java"];
+Const data =[];
+For (var = i<200;
+i<200;i+=2){
+Data.push(1)}
+Console.log("my name" + name);
+Console.log("my course" + course);
+Console.log(data);
